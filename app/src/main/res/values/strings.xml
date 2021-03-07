@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">music</string>
+    <string name="textview">My App</string>
+    <string name="mic">TODO</string>
+    <string name="music">TODO</string>
+    <string name="button1">play first song</string>
+    <string name="button2">play second song</string>
+</resources>
